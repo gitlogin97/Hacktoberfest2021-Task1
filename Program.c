@@ -15,4 +15,5 @@ int main()
     scanf("Thank you %c Happy Hacking",country);//Thank the user
 
     return 0;
+    //changed
 }
